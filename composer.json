@@ -1,0 +1,20 @@
+{
+  "name": "nextpost-tech/genderize",
+  "description": "Detect gender and age using OpenCV of the person (face) in a picture.",
+  "authors": [
+    {
+      "name": "Nextpost.tech",
+      "homepage": "https://nextpost.tech",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "NextpostTech\\Genderize\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+  }
+}
+  
