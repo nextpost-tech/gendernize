@@ -1,4 +1,4 @@
-# Genderize
+# Gendernize
 
 Introducing a Python project that uses OpenCV to detect gender and age of an individual through webcam or image processing. The project is designed to provide an easy-to-use, efficient, and accurate way to extract user information by analyzing facial features.
 
